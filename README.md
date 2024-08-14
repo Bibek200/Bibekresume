@@ -1,3 +1,6 @@
+
+live Preview - https://bibek200.github.io/Bibekresume/
+
 - 👋 Hi, I’m @Bibek200
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
